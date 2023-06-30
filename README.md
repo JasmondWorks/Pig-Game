@@ -4,7 +4,7 @@ This is a risk-management game which consists of two players and a dice that the
 
 
 
-![Screenshot (803)](C:\Users\Jasmond\Pictures\Screenshots\Screenshot (803).png)
+![Screenshot (803)](C:\Users\Jasmond\Documents\Web devpt\JS\PureJS\Jonas' course\complete-javascript-course-master\07-Pig-Game\starter\Screenshot (803).png)
 
 
 
