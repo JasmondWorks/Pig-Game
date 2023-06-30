@@ -8,7 +8,7 @@ This is a risk-management game which consists of two players and a dice that the
 
 
 ### Want to play the game?
-Live link: https://jasmondworks-pig-game.netlify.app/
+Live link: <a href="https://jasmondworks-pig-game.netlify.app/" target="_blank">Pig Game</a>
 
 
 ## Interface
