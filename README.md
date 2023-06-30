@@ -4,7 +4,7 @@ This is a risk-management game which consists of two players and a dice that the
 
 
 
-![Screenshot (803)](Screenshot (803).png)
+![Screenshot (803)](interface.png)
 
 
 
