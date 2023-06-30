@@ -2,10 +2,13 @@
 
 This is a risk-management game which consists of two players and a dice that they take turns to roll
 
-
+<br>
 
 ![Screenshot (803)](interface.png)
 
+
+### Want to play the game?
+Live link: https://jasmondworks-pig-game.netlify.app/
 
 
 ## Interface
